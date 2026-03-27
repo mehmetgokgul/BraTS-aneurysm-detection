@@ -1,0 +1,11 @@
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+nibabel
+scipy
+scikit-learn
+seaborn
+tqdm
+matplotlib
+numpy
